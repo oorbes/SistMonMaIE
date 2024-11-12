@@ -1,0 +1,1 @@
+## Nodo con ESP32 para servidor local de Thingsboard
