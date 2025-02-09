@@ -17,6 +17,11 @@ Este proyecto implementado como estrategia de enseñanza-aprendizaje en el SENA,
     - [Flujos Node-Red](ServIoTAgr/flows.json)
     - [Base de datos](ServIoTAgr/BDSistMon.mwb)
     - [Instalación](Procedimientos/5.%20InstServUbIoT.pdf)
+- [Análisis de consumo de energía de nodos](AnaConsEnerg/README.md)
+    - [Datos capturados en el experimento](AnaConsEnerg/CompNodosFinalConsumo.TDM )
+    - [Vistas de datos y procesamiento](AnaConsEnerg/Nodos-Final-Consumo.TDV)
+    - [Reporte de resultados](AnaConsEnerg/CompEnergíaTarjetas.TDR)
+
 - Proceso de Transferencia
     - [Fundamentos](Transferencia/Apoyo%20Cap%20ENI%20-%20NutAgrSENA.pdf)
     - [Taller](Transferencia/AprIoTAgr_Presencial.pdf)

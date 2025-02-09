@@ -1,0 +1,3 @@
+## Análisis de consumo de energía de nodos.
+Se establece un método de captura y análisis de datos de consumo de energía para nodos que implementan el protocolo LoRaWAN en una transferencia exitosa con el servidor TTN.  Se emplean nodos de la marca Dragino y nodos programados con el uso de tarjetas de desarrollo que disponen de transceptores LoRa.
+Los datos son obtenidos en un banco de prueba que incluye instrumentación virtal proporcionada por el sistema Ni Elvis III y del uso de Ni Diadem versión Estudiante para realizar la visualización, procesamiento y análisis de los datasets obtenidos de las medidas.
