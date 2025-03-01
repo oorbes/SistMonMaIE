@@ -21,6 +21,10 @@ Este proyecto implementado como estrategia de enseñanza-aprendizaje en el SENA,
     - [Datos capturados en el experimento](AnaConsEnerg/CompNodosFinalConsumo.TDM )
     - [Vistas de datos y procesamiento](AnaConsEnerg/Nodos-Final-Consumo.TDV)
     - [Reporte de resultados](AnaConsEnerg/CompEnergíaTarjetas.TDR)
+    - [Código Fuente Arduino Shield LoRa](AnaConsEnerg/nodo-arduino.zip)
+    - [Código Fuente LoRa32U4II](AnaConsEnerg/nodo-lora32u4ii.zip)
+    - [Código Fuente Heltec LoRa 32](AnaConsEnerg/nodo-HeltecLoRa.zip)
+    - [Código Fuente TTGO Beam](AnaConsEnerg/nodo-TTGOBeam.zip)
 
 - Proceso de Transferencia
     - [Fundamentos](Transferencia/Apoyo%20Cap%20ENI%20-%20NutAgrSENA.pdf)
